@@ -1,8 +1,3 @@
-Awesome 🚀 — we’ll go with **Option 1: Full Markdown version + image/diagram placeholders**, perfectly formatted for **Medium or GitHub**.
-
-Here’s your **final Medium-ready blog in Markdown (`.md`)** format 👇
-
----
 
 ````markdown
 # 🧩 Kafka Multinode Installation & KRaft Setup on Java 11 (Step-by-Step Guide)
