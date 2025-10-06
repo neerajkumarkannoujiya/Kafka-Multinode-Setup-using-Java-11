@@ -8,16 +8,6 @@ In this guide, we’ll walk through **how to install and configure a multi-node 
 
 ---
 
-## 🖼️ Architecture Overview
-
-![Kafka KRaft Architecture Diagram](https://via.placeholder.com/900x400?text=Kafka+KRaft+Architecture+Diagram)
-
-**Explanation:**
-- Each Kafka broker acts as both a **controller** and a **broker**.
-- **KRaft mode** manages cluster metadata internally — no need for ZooKeeper.
-- Communication happens through **controller and broker listeners** across multiple machines.
-
----
 
 ## 🚀 Step 1: Install Java 11
 
