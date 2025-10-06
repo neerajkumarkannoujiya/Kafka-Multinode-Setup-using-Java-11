@@ -54,8 +54,6 @@ mv kafka_2.13-3.1.0 ~/kafka
 cd ~/kafka
 ```
 
-![Kafka Installation Illustration](https://via.placeholder.com/900x400?text=Kafka+Installation+Process)
-
 ---
 
 ## 🌐 Step 3: Configure Hostnames on Both Machines
@@ -232,11 +230,6 @@ Example output:
 
 ---
 
-## 🧠 Verification Workflow Diagram
-
-![Kafka Multinode Verification Flow](https://via.placeholder.com/900x400?text=Kafka+Producer-Consumer+Flow)
-
----
 
 ## 🏁 Conclusion
 
